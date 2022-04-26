@@ -8,13 +8,13 @@ h1{
   color: #fff;
 }
 
-.wachin{
+.gif-item{
   overflow: hidden;
   height: 200px;
   width: 200px;
 
 }
-.wachin > img{
+.gif-item > img{
   background-size: cover;
   width: 200px;
   height: 200px;
